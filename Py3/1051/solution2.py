@@ -1,3 +1,5 @@
+# 46 ms  16.38 MB
+
 class Solution:
     def quicksort(self, arr):
         if len(arr) <= 1:
